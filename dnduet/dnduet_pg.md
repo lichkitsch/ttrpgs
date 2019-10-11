@@ -20,4 +20,11 @@ Characters in *dnduet* are built with stats and traits; stats are numbers that r
 | wisdom       | perception, intuition, accuracy     | WIS   |
 | charisma     | influence, performance, allure      | CHA   |
 
-Roll `1d4-2` for each stat to set its starting score. 
+Roll `1d4-2` for each stat to set its starting score. After your strengths and weaknesses are set, note down your starting maximum heart points (HP) by adding 10 to your `CON` score. Use your strengths and weaknesses to inform your character's personality, history, and appearance.
+
+Three personality traits (one positive, one neutral, and one negative) are easy to remember and can help you quickly determine how your character will respond to different situations. Your character's background should be easily summed up with a single sentence, although you can write as much as you want. Use your character's stats, personality, and history to inform their appearance and describe that as well.
+
+Once your character has been created, and your game master has a setting and initial action to get you started, it's time to play!
+
+## playing the game
+
