@@ -18,7 +18,7 @@ Mellen wakes in the dead of night to find herself lost in the woods. She's still
 |:---:|:--- |
 | A | Foyer; large iron doors with intricate stained glass |
 
-![Gridded map of basement of the castle at Potter's Rock, each room marked with a letter.](castleAtPottersRock_below.png)
+![Gridded map of basement of the castle at Potter's Rock, each room marked with a letter.](castleAtPottersRock_below1.png)
 
 | Room | Description |
 |:---:|:--- |
