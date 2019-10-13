@@ -12,7 +12,9 @@ Mellen wakes in the dead of night to find herself lost in the woods. She's still
 
 
 ## Locations
+![Gridded map of the castle at Potter's Rock, each room marked with a letter.](castleAtPottersRock.png)
 
+![Gridded map of basement of the castle at Potter's Rock, each room marked with a letter.](castleAtPottersRock_below.png)
 
 ## Obstacles
 
