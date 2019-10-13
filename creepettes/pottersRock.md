@@ -14,7 +14,15 @@ Mellen wakes in the dead of night to find herself lost in the woods. She's still
 ## Locations
 ![Gridded map of the castle at Potter's Rock, each room marked with a letter.](castleAtPottersRock1.png)
 
-![Gridded map of basement of the castle at Potter's Rock, each room marked with a letter.](castleAtPottersRock_below1.png)
+| Room | Description |
+|:---:|:--- |
+| A | Foyer; large iron doors with intricate stained glass |
+
+![Gridded map of basement of the castle at Potter's Rock, each room marked with a letter.](castleAtPottersRock_below.png)
+
+| Room | Description |
+|:---:|:--- |
+| P | Staircase; creaky wooden stairs leading down into the dank underbelly of the castle |
 
 ## Obstacles
 
