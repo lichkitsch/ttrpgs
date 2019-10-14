@@ -44,6 +44,16 @@ Mellen wakes in the dead of night to find herself lost in the woods. She's still
 | U |  |
 
 ## Revelations
-
+1. The castle is haunted by ghosts.
+2. The ghosts are victims of the "master of the house", Lord Augustin.
+3. Lord Augustin is a power-mad cannibal.
+4. Lord Augustin believes that eating his family would prolong his life.
+5. He believes this because of a prophecy he found carved in stone beneath his house.
+6. The stone made him mad, whispering evil things into his ear until he lost his mind.
+7. The stone is possessed by a demon named Sog.
+8. Sog feasts on the misery of the trapped ghosts.
+9. Lord Augustin is dead and a ghost as well.
+10. Sog cannot leave the rock or he'll die.
 
 ## Dividends
+The reward, should she survive, is escaping with her life!
