@@ -27,7 +27,7 @@ Find safety from the storm and survive the night.
 | D | Study; broken desk, wet papers |
 | E |  |
 | F |  |
-| G | Dining hall; dark curtains, long table, dead flowers |
+| G | Dining hall; dark curtains, long table, dead flowers, bones |
 | H |  |
 | I | Hidden staircase; |
 | J |  |
