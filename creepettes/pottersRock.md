@@ -6,10 +6,15 @@ Normal => Threat => Signposts => Disarm => Signposts => Cloak => Dagger
 Mellen wakes in the dead of night to find herself lost in the woods. She's still in her bedroll, but her campsite, companions, and gear are missing. It's pitch black and the sky above the forest canopy is rumbling, threatening to rain any moment.
 
 ## Important NPCs
-
+| Name | Description |
+|:---:|:--- |
+| Sir Mirrus |  |
+| Lady Augustin |  |
+| Lord Augustin | Crazed cannibal, feasted on his family |
+| Sog the Demon | Wretched temptor from Hell, trapped in a stone |
 
 ## Goal
-
+Find safety from the storm and survive the night.
 
 ## Locations & Obstacles
 ![Gridded map of the castle at Potter's Rock, each room marked with a letter.](castleAtPottersRock1.png)
