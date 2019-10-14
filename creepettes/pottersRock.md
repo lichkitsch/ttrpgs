@@ -16,21 +16,21 @@ Mellen wakes in the dead of night to find herself lost in the woods. She's still
 
 | Room | Description |
 |:---:|:--- |
-| A | Foyer; large iron doors with intricate stained glass |
-| B |  |
-| C |  |
-| D |  |
+| A | Entrance; iron doors, heavy knocker, stained glass |
+| B | Library; tall bookshelves, rotting books, broken furniture |
+| C | Foyer; dusty chandelier, moth-eaten rug |
+| D | Study; broken desk, wet papers |
 | E |  |
 | F |  |
-| G |  |
+| G | Dining hall; dark curtains, long table, dead flowers |
 | H |  |
-| I |  |
+| I | Hidden staircase; |
 | J |  |
-| K |  |
+| K | Kitchen; dirty floors, powerful smell, bloody tools |
 | L |  |
 | M |  |
-| N |  |
-| O |  |
+| N | Cemetary; overgrown, faded tombstones, an empty grave |
+| O | Garden; barren, empty planting boxes, abandoned tools, missing spade |
 
 ![Gridded map of basement of the castle at Potter's Rock, each room marked with a letter.](castleAtPottersRock_below1.png)
 
