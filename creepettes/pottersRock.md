@@ -43,11 +43,11 @@ Find safety from the storm and survive the night.
 | Room | Description |
 |:---:|:--- |
 | P | Staircase; creaky wooden stairs leading down into the dank underbelly of the castle |
-| Q | Shaft that leads down to a small dock below; exit safely |
+| Q | Locked door that leads down to a small dock below; exit safely |
 | R | Cellar; blood-filled wine bottles; **Lord Augustin** |
 | S | Body pit; stinking bone-filled hole, missing spade |
 | T | Cellar annex; a bookkeeping room, old writing desk, Lord Augustin's body, a knife in his back |
-| U | Sog's stone; hidden behind a locked door; **Sog** |
+| U | Sog's stone; hidden behind a locked door, need blood to open; **Sog**, key to exit |
 
 ## Revelations
 1. The castle is haunted by ghosts.
