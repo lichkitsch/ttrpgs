@@ -22,21 +22,21 @@ Find safety from the storm and survive the night.
 
 | Room | Description |
 |:---:|:--- |
-| A | Entrance; iron doors, heavy knocker, stained glass; Hans |
-| B | Library; tall bookshelves, rotting books, broken furniture; Geraldine |
+| A | Entrance; iron doors, heavy knocker, stained glass; **Hans** |
+| B | Library; tall bookshelves, rotting books, broken furniture; **Geraldine** |
 | C | Foyer; dusty chandelier, moth-eaten rug |
-| D | Study; broken desk, wet papers |
-| E |  |
-| F | Wash closet; |
-| G | Dining hall; dark curtains, long table, dead flowers, bones; Sir Mirrus |
-| H |  |
-| I | Hidden staircase; |
-| J | Guest bedroom; |
-| K | Kitchen; dirty floors, powerful smell, bloody tools; Faroe |
-| L | Servant's quarters; |
-| M | Master bedroom; |
-| N | Cemetary; overgrown, faded tombstones, an empty grave |
-| O | Garden; barren, empty planting boxes, abandoned tools, missing spade |
+| D | Study; broken desk, wet papers, smelly suit of armor; Sir Mirrus' body inside armor |
+| E | Ballroom; ceiling caved in, rain pouring down |
+| F | Wash closet; dark and stale; **Faroe** |
+| G | Dining hall; dark curtains, long table, dead flowers, bones; **Sir Mirrus** |
+| H | Tea room; ; **Geraldine ** |
+| I | Hidden staircase; hidden behind a moldy painting and locked door |
+| J | Guest bedroom; faded white linens and a tall wardrobe; **Geraldine** |
+| K | Kitchen; dirty floors, powerful smell, bloody tools; **Faroe** |
+| L | Servant's quarters; cots with bedrolls filled with rotten straw, tiny bathroom adjacent; **Hans** |
+| M | Master bedroom; expensive dark-wood furniture, heavy curtains; **Lady Augustin** |
+| N | Cemetary; overgrown, faded tombstones, an unmarked, empty grave; **Hans**, key to stairs |
+| O | Garden; barren, empty planting boxes, abandoned tools, missing spade; **Faroe** |
 
 ![Gridded map of basement of the castle at Potter's Rock, each room marked with a letter.](castleAtPottersRock_below1.png)
 
@@ -44,10 +44,10 @@ Find safety from the storm and survive the night.
 |:---:|:--- |
 | P | Staircase; creaky wooden stairs leading down into the dank underbelly of the castle |
 | Q | Shaft that leads down to a small dock below; exit safely |
-| R | Cellar; blood-filled wine bottles |
-| S | Body pit; stinking hole in the ground filled with servant victims |
-| T | Cellar annex; a bookkeeping room with an old writing desk, at which sits Lord Augustin, a knife in his back |
-| U | Sog's stone; hidden behind a locked door |
+| R | Cellar; blood-filled wine bottles; **Lord Augustin** |
+| S | Body pit; stinking bone-filled hole, missing spade |
+| T | Cellar annex; a bookkeeping room, old writing desk, Lord Augustin's body, a knife in his back |
+| U | Sog's stone; hidden behind a locked door; **Sog** |
 
 ## Revelations
 1. The castle is haunted by ghosts.
@@ -58,8 +58,8 @@ Find safety from the storm and survive the night.
 6. The stone made him mad, whispering evil things into his ear until he lost his mind.
 7. The stone is possessed by a demon named Sog.
 8. Sog feasts on the misery of the trapped ghosts.
-9. Lord Augustin is dead and a ghost as well.
-10. Sog cannot leave the rock or he'll die.
+9. Lord Augustin is dead and a ghost as well, regretful and confused.
+10. Sog cannot leave the rock or he'll die; use spade to dig up the black bones below the rock and kill him.
 
 ## Dividends
 The reward, should she survive, is escaping with her life!
