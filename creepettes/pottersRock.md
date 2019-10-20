@@ -6,8 +6,8 @@ Mellen wakes in the dead of night to find herself lost in the woods. She's still
 ## Important NPCs
 | Name | Description |
 |:---:|:--- |
-| Sir Mirrus |  |
-| Lady Augustin |  |
+| Sir Mirrus | Noble knight, missing his body |
+| Lady Augustin | Kind and helpful, wearing a frilly ballgown w/ guts spilling down the front |
 | Lord Augustin | Crazed cannibal, feasted on his family |
 | Sog the Demon | Wretched temptor from Hell, trapped in a stone |
 
