@@ -9,7 +9,7 @@ Mellen wakes in the dead of night to find herself lost in the woods. She's still
 | Hans | Creepy butler, missing the flesh of his back |
 | Faroe | Shy servant girl, disfigured face and cuts all over |
 | Geraldine | Confused, armless young woman trying to pick up books to read in the library |
-| Sir Mirrus | Noble knight, missing his body |
+| Sir Mirrus | Noble knight, only a head, missing his body |
 | Lady Augustin | Kind and helpful, wearing a frilly ballgown w/ guts spilling down the front |
 | Lord Augustin | Crazed cannibal, feasted on his family |
 | Sog the Demon | Wretched temptor from Hell, trapped in a stone |
@@ -29,7 +29,7 @@ Find safety from the storm and survive the night.
 | E | Ballroom; ceiling caved in, rain pouring down |
 | F | Wash closet; dark and stale; **Faroe** |
 | G | Dining hall; dark curtains, long table, dead flowers, bones; **Sir Mirrus** |
-| H | Tea room; ; **Geraldine ** |
+| H | Tea room; small round table, one chair standing, smell of roses; **Geraldine** |
 | I | Hidden staircase; hidden behind a moldy painting and locked door |
 | J | Guest bedroom; faded white linens and a tall wardrobe; **Geraldine** |
 | K | Kitchen; dirty floors, powerful smell, bloody tools; **Faroe** |
