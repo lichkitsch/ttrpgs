@@ -6,6 +6,7 @@ Mellen wakes in the dead of night to find herself lost in the woods. She's still
 ## Important NPCs
 | Name | Description |
 |:---:|:--- |
+| Geraldine | Confused, armless young woman trying to pick up books to read in the library |
 | Sir Mirrus | Noble knight, missing his body |
 | Lady Augustin | Kind and helpful, wearing a frilly ballgown w/ guts spilling down the front |
 | Lord Augustin | Crazed cannibal, feasted on his family |
