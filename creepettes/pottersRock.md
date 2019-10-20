@@ -6,6 +6,8 @@ Mellen wakes in the dead of night to find herself lost in the woods. She's still
 ## Important NPCs
 | Name | Description |
 |:---:|:--- |
+| Hans | Creepy butler, missing the flesh of his back |
+| Faroe | Shy servant girl, disfigured face and cuts all over |
 | Geraldine | Confused, armless young woman trying to pick up books to read in the library |
 | Sir Mirrus | Noble knight, missing his body |
 | Lady Augustin | Kind and helpful, wearing a frilly ballgown w/ guts spilling down the front |
@@ -20,19 +22,19 @@ Find safety from the storm and survive the night.
 
 | Room | Description |
 |:---:|:--- |
-| A | Entrance; iron doors, heavy knocker, stained glass |
-| B | Library; tall bookshelves, rotting books, broken furniture |
+| A | Entrance; iron doors, heavy knocker, stained glass; Hans |
+| B | Library; tall bookshelves, rotting books, broken furniture; Geraldine |
 | C | Foyer; dusty chandelier, moth-eaten rug |
 | D | Study; broken desk, wet papers |
 | E |  |
-| F |  |
-| G | Dining hall; dark curtains, long table, dead flowers, bones |
+| F | Wash closet; |
+| G | Dining hall; dark curtains, long table, dead flowers, bones; Sir Mirrus |
 | H |  |
 | I | Hidden staircase; |
-| J |  |
-| K | Kitchen; dirty floors, powerful smell, bloody tools |
-| L |  |
-| M |  |
+| J | Guest bedroom; |
+| K | Kitchen; dirty floors, powerful smell, bloody tools; Faroe |
+| L | Servant's quarters; |
+| M | Master bedroom; |
 | N | Cemetary; overgrown, faded tombstones, an empty grave |
 | O | Garden; barren, empty planting boxes, abandoned tools, missing spade |
 
