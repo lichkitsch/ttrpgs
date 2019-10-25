@@ -22,32 +22,22 @@ Find safety from the storm and survive the night.
 
 | Room | Description |
 |:---:|:--- |
-| A | Entrance; iron doors, heavy knocker, stained glass; **Hans** |
-| B | Library; tall bookshelves, rotting books, broken furniture; **Geraldine** |
-| C | Foyer; dusty chandelier, moth-eaten rug |
-| D | Study; broken desk, wet papers, smelly suit of armor; Sir Mirrus' body inside armor |
-| E | Ballroom; ceiling caved in, rain pouring down |
-| F | Wash closet; dark and stale; **Faroe** |
-| G | Dining hall; dark curtains, long table, dead flowers, bones; **Sir Mirrus** |
-| H | Tea room; small round table, one chair standing, smell of roses; **Geraldine** |
-| I | Hidden staircase; hidden behind a moldy painting and locked door |
-| J | Guest bedroom; faded white linens and a tall wardrobe; **Geraldine** |
-| K | Kitchen; dirty floors, powerful smell, bloody tools; **Faroe** |
-| L | Servant's quarters; cots with bedrolls filled with rotten straw, tiny bathroom adjacent; **Hans** |
-| M | Master bedroom; expensive dark-wood furniture, heavy curtains; **Lady Augustin** |
-| N | Cemetary; overgrown, faded tombstones, an unmarked, empty grave; **Hans**, key to stairs |
-| O | Garden; barren, empty planting boxes, abandoned tools, missing spade; **Faroe** |
-
-![Gridded map of basement of the castle at Potter's Rock, each room marked with a letter.](castleAtPottersRock_below1.png)
-
-| Room | Description |
-|:---:|:--- |
-| P | Staircase; creaky wooden stairs leading down into the dank underbelly of the castle |
-| Q | Locked door that leads down to a small dock below; exit safely |
-| R | Cellar; blood-filled wine bottles; **Lord Augustin** |
-| S | Body pit; stinking bone-filled hole, missing spade found here |
-| T | Cellar annex; a bookkeeping room, old writing desk, Lord Augustin's body, a knife in his back |
-| U | Sog's stone; hidden behind a locked door, need blood to open; **Sog**, key to exit |
+|  0 | Entrance; iron doors, heavy knocker, stained glass; **Hans** |
+|  1 | Foyer; dusty chandelier, moth-eaten rug |
+|  2 | Library; tall bookshelves, rotting books, broken furniture; **Geraldine** |
+|  3 |  |
+|  4 |  |
+|  5 | Kitchen; dirty floors, powerful smell, bloody tools; **Faroe** |
+|  6 | Dining hall; dark curtains, long table, dead flowers, bones; **Sir Mirrus** |
+|  7 | Wine cellar; blood-filled wine bottles; **Lord Augustin** |
+|  8 | Tea room; small round table, one chair standing, smell of roses; **Geraldine** |
+|  9 | Wash closet; dark and stale; **Faroe** |
+| 10 | Study; broken desk, wet papers, smelly suit of armor; Sir Mirrus' body inside armor |
+| 11 | Master bedroom; expensive dark-wood furniture, heavy curtains; **Lady Augustin** |
+| 12 | Servant's quarters; cots with bedrolls filled with rotten straw, tiny bathroom adjacent; **Hans*** |
+| 13 | Ballroom; ceiling caved in, rain pouring down |
+| 14 | Garden; barren, empty planting boxes, abandoned tools, missing spade; **Faroe** |
+| 15 | Cemetary; overgrown, faded tombstones, need blood to open; **Sog**, key to exit |
 
 ## Revelations
 1. The castle is haunted by ghosts.
