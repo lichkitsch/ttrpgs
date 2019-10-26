@@ -31,10 +31,10 @@ Find safety from the storm and survive the night.
 |  6 | Dining hall; dark curtains, long table, dead flowers, bones; **Sir Mirrus** |
 |  7 | Wine cellar; blood-filled wine bottles; **Lord Augustin** |
 |  8 | Tea room; small round table, one chair standing, smell of roses; **Geraldine** |
-|  9 | Wash closet; dark and stale; **Faroe** |
+|  9 | Wash closet; dark and stale; key in sink |
 | 10 | Study; broken desk, wet papers, smelly suit of armor; Sir Mirrus' body inside armor |
 | 11 | Master bedroom; expensive dark-wood furniture, heavy curtains; **Lady Augustin** |
-| 12 | Servant's quarters; cots with bedrolls filled with rotten straw, tiny bathroom adjacent; **Hans*** |
+| 12 | Servant's quarters; cots with bedrolls filled with rotten straw, tiny bathroom adjacent; **Hans** |
 | 13 | Ballroom; ceiling caved in, rain pouring down |
 | 14 | Garden; barren, empty planting boxes, abandoned tools, missing spade; **Faroe** |
 | 15 | Cemetary; overgrown, faded tombstones, need blood to open; **Sog**, key to exit |
