@@ -23,19 +23,19 @@ Find safety from the storm and survive the night.
 | Room | Description |
 |:---:|:--- |
 |  0 | Entrance; iron doors, heavy knocker, stained glass; **Hans** |
-|  1 | Foyer; dusty chandelier, moth-eaten rug |
+|  1 | Foyer; dusty chandelier, moth-eaten rug, foot; scene changes once inside |
 |  2 | Library; tall bookshelves, rotting books, broken furniture; **Geraldine** |
-|  3 |  |
-|  4 |  |
+|  3 | Living area; long, long couches, grand piano, torn paintings; sinister voice in the distance |
+|  4 | Servant's quarters; cots with bedrolls filled with rotten straw, tiny bathroom adjacent; **Hans** |
 |  5 | Kitchen; dirty floors, powerful smell, bloody tools; **Faroe** |
 |  6 | Dining hall; dark curtains, long table, dead flowers, bones; **Sir Mirrus** |
-|  7 | Wine cellar; blood-filled wine bottles; **Lord Augustin** |
+|  7 | Wine cellar; locked door hides cellar, blood-filled wine bottles; **Lord Augustin** with cleaver |
 |  8 | Tea room; small round table, one chair standing, smell of roses; **Geraldine** |
-|  9 | Wash closet; dark and stale; key in sink |
+|  9 | Wash closet; dark and stale; first key to cemetary in sink |
 | 10 | Study; broken desk, wet papers, smelly suit of armor; Sir Mirrus' body inside armor |
 | 11 | Master bedroom; expensive dark-wood furniture, heavy curtains; **Lady Augustin** |
-| 12 | Servant's quarters; cots with bedrolls filled with rotten straw, tiny bathroom adjacent; **Hans** |
-| 13 | Ballroom; ceiling caved in, rain pouring down |
+| 12 | Guest bedroom; large dark stain in center of room; second key to cemetary in drawer |
+| 13 | Ballroom; ceiling caved in, rain pouring down; safe here |
 | 14 | Garden; barren, empty planting boxes, abandoned tools, missing spade; **Faroe** |
 | 15 | Cemetary; overgrown, faded tombstones, need blood to open; **Sog**, key to exit |
 
