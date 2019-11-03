@@ -17,7 +17,7 @@ Give the player(s) a clear goal with clear stakes.
 Map out the locations to which your player(s) have access during this adventure, then fill the locations with traps, puzzles, and hostile creatures that stand between your player(s) and the goal.
 
 ### Temple of Krul
-![Map of the temple](photo.png)
+![Map of the temple](photoSmall.png)
 
 1. Secret sealed gate; 
 2. Inner sanctum; 
