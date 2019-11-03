@@ -8,7 +8,7 @@ List out the relevant non-player characters, their notable traits, and what they
 
 | Name | Details |
 |:---:|:--- |
-| Krul | <ul style="margin: 0;"><li>Ghost of a goblin warlord; +1 morningstar; confident, brash, violent;</li><li>Wants to drain the land of life in attempt to resurrect himself</li></ul> |
+| Krul | - Ghost of a goblin warlord; +1 morningstar; confident, brash, violent;<br/>- Wants to drain the land of life in attempt to resurrect himself |
 
 ## Goal
 Give the player(s) a clear goal with clear stakes.
