@@ -16,15 +16,15 @@ To play, you'll need:
 
 
 ## Actions
-Players describe the actions that their character takes to progress the story. Sometimes the outcome of an action is uncertain and you'll have to make an **action roll** to beat the _Air of Fate_, a number representing the level of challenge your character is currently facing.
-
-Describe your character's action and roll `1d20`, then add the appropriate stat modifier to the result. If it's higher than or equal to the _Air of Fate_, the outcome is positive. If not, your character suffers a consequence.
+Players describe the actions that their character takes to progress the story. Sometimes the outcome of an action is uncertain and you have to make an **action roll**. To make an action roll, describe your character's action and roll `1d20`, then add your most accurate stat modifier. If it's higher than or equal to the _Air of Fate_, the outcome is positive. If not, your character suffers a consequence.
 
 ## Contests
-Sometimes creatures or obstacles will resist your character's actions directly. When creatures make actions against each other, both must make **contested** action rolls to reveal the outcome. The highest roll wins. In a tie, the outcome is a mixed result for both contestants.
+When creatures make actions against each other, both make **contested** action rolls to reveal the outcome. The highest roll wins. In a tie, the outcome is a mixed result for both contestants.
 
 ## Heart Points
-_dnduet_ uses a system called **heart points** to describe a creature or obstacle's integrity. To overcome something with HP you must make successful actions to decrease its HP
+_dnduet_ uses a system called **heart points** to describe a creature or obstacle's integrity. When an action roll to reduce a target's HP is successful, you roll your **effect dice** and use the result to reduce the target's HP.
+
+Sometimes items, magic, or rest will allow you to replenish a target's HP using your **effect dice**. On a long rest (many hours free from immediate danger) your HP returns to full. If a creature or obstacle's HP reaches zero, they can no longer make action rolls and are at the mercy of the winner.
 
 ## Leveling Up
 
