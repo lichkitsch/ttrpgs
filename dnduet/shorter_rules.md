@@ -8,7 +8,7 @@ Choose the following:
 2. Starting stats (roll 1d4-2 for each):
 
 | Stat | Abbr. | Description |
-|:---:|:---:|:--- |
+| ---:|:---:|:--- |
 | Strength | `STR` | Power & athletics |
 | Dexterity | `DEX` | Stealth & agility |
 | Constitution | `CON` | Health & stamina |
