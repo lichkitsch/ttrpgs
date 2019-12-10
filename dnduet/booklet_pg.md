@@ -7,7 +7,9 @@ To play, you'll need:
 3. A completed character sheet
 
 ## Character
-
+1. Roll `1d4-2` for each stat
+2. Starting MAX HP is 10+`CON`
+3. Flesh out your character (personality, history, appearance, motivations, etc.)
 
 ## Character (cont.)
 
