@@ -1,19 +1,39 @@
 # dnduet
 
-## Character
+## Cover
+_dnduet_ is a customizable tabletop RPG for two.
 
-Choose the following:
+To play _dnduet_ you'll need:
 
-1. Starting level
-2. Starting stats (roll 1d4-2 for each):
+1. A set of dice
+2. A game master (GM) with a quest
+3. A completed character sheet
 
-| Stat | Abbr. | Description |
-| ---:|:---:|:--- |
-| Strength | `STR` | Power & athletics |
-| Dexterity | `DEX` | Stealth & agility |
-| Constitution | `CON` | Health & stamina |
-| Intelligence | `INT` | Memory & logic |
-| Wisdom | `WIS` | Intuition & perception |
-| Charisma | `CHA` | Personality & persuasion |
+## Page 1
+Create a character:
 
-3. Starting Max HP is 10+`CON`
+1. Roll `1d4-2` for each stat
+2. Max HP at level 1 is 10+`CON`
+3. Name them and write a few sentences to describe them
+    - Include their background, looks, personality (virtue/quirk/flaw), and motivation(s)
+4. 
+
+## Page 2
+
+| Stat | Abbr | Description |
+|:---:|:---:|:--- |
+|  |  |  |
+
+## Page 3
+
+
+## Page 4
+
+
+## Page 5
+
+
+## Page 6
+
+
+## Back Cover
