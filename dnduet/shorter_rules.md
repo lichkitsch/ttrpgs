@@ -16,24 +16,35 @@ Create a character:
 2. Max HP at level 1 is 10+`CON`
 3. Name them and write a few sentences to describe them
     - Include their background, looks, personality (virtue/quirk/flaw), and motivation(s)
-4. 
+4. Add `1d4` items (pg. 5) to their inventory
 
 ## Page 2
 
 | Stat | Abbr | Description |
 |:---:|:---:|:--- |
-|  |  |  |
+| Strength | `STR` | Athletics and melee |
+| Dexterity | `DEX` | Agility and stealth |
+| Constitution | `CON` | Stamina and health |
+| Intelligence | `INT` | Memory and logic |
+| Wisdom | `WIS` | Perception and intuition |
+| Charisma | `CHA` | Personality and persuasion |
 
-## Page 3
+## Page 3 - Rolls
+
+| Name | Dice | Condition |
+|:---:|:---:|:--- |
+| Free Action | No roll | Outcome is certain |
+| (Re)Action Roll | `1d20+STAT` | Outcome is uncertain, result >= AoF |
+| Contested Roll | `1d20+STAT` | Target can resist, result > target roll |
+| Effect Roll | See pg. 6 | Target has HP and action succeeded |
+
+## Page 4 - Rolls (cont.)
 
 
-## Page 4
+## Page 5 - Items
 
 
-## Page 5
-
-
-## Page 6
+## Page 6 - Leveling Up
 
 
 ## Back Cover
