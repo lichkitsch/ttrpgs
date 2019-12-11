@@ -2,7 +2,8 @@
 
 To play, you'll need:
 
-1. A set of polyhedral dice
+1. A set of dice
+    - `1d4`, `1d6`, `1d8`, `1d10`, `1d12`, `1d20`
 2. A game master with a quest
 3. A completed character sheet
 
@@ -13,7 +14,7 @@ To play, you'll need:
 3. Flesh out your character (personality, history, appearance, motivations, etc.)
 
 ## Action Rolls
-Sometimes the outcome of an action is uncertain and you have to make an **action roll**. To make an action roll, describe your character's action and roll `1d20`, then add your most accurate stat. If it's higher than or equal to the _Air of Fate_, the outcome is positive. If not, your character suffers a consequence.
+If the outcome of an action is uncertain, you have to make an **action roll**. First, describe your character's action and roll `1d20`, then add the appropriate stat. If the result is higher than or equal to the _Air of Fate_, the outcome is positive. If not, your character suffers a consequence.
 
 ## Action Rolls (cont.)
 When creatures make actions against each other, both make **contested** action rolls to reveal the outcome. The highest roll wins. In a tie, the outcome is a mixed result for both contestants.
