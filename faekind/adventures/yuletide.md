@@ -1,38 +1,39 @@
 # Title
 
 ## Review
-Sorrel is a young child, out on a family vacation with her mom and dad. At the lodge, Sorrel slips into the Twilight on accident and gets lost, but the Twilight is an even stranger and more chaotic place near the celestial holidays. Sorrel has to find her way back to the lodge with the help of whatever friendly fae she can find.
+Sorrel is a young child, out on a family vacation with her mom and dad. At the lodge, Sorrel sleepwalks into the Twilight on accident and gets lost, but the Twilight is an even stranger and more chaotic place near the celestial holidays. Sorrel has to find her way back to the lodge with the help of three faerie witches, who have some challenges for her.
 
 ## Important NPCs
 
 | Name | Details |
 |:---:|:--- |
-| Alder |  |
-| Maple |  |
-| Mistletoe |  |
-| Holly |  |
-| Sugar |  |
+| Sugarplum | Petite and purple; Sweet, silly, and playful |
+| Winterberry | Round and red; Warm and welcoming but nauseating |
+| Mistletoe | Mean and green; Regal and dangerous but also playful |
+| Chestnut | Baby troll, stinky |
 
 ## Goal
-
+Appease the witches by doing magical chores and earn their help getting back to the lodge.
 
 ## Locations & Obstacles
 
-![](.png)
+![Map of the witches' house](images/yuletide.png)
+
+The witches live in an old cottage sitting in a snow-covered evergreen section of the Twilight, partially buried underground.
 
 | # | Name | Details |
 |:---:|:---:|:--- |
-|  |  |  |
+| 1 | Washing Room | Large tub, sink and mirror, toilet closet<br/><br/>Chestnut the troll baby is in need of a good scrubbing (`CON`) |
+| 2 | Bedroom | Mistletoe wants Sorrel to catch the mouse that's been squeaking at night and waking them (`DEX`) |
+| 3 | Sanctum | Fireplace, cauldron, shelf of ingredients<br/><br/>Winterberry needs assistance piecing together a love potion (`INT`) |
+| A | Main Hall | Finally, before Sorrel can return home, the witches must teach her how to find open portals (`WIS`) |
+| B | Kitchen | Dried herbs hang from the ceiling, fully stocked pantry<br/><br/>Sorrel must aid Sugarplum in baking a yule log cake (`STR`) |
+| C | Dining Room | The witches want some entertainment while they eat their dinner (`CHA`) |
 
 ## Revelations
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+1. This is how Sorrel first learned to navigate the Twilight
+2. This Yuletide is also when Sorrel's parents gave her the choice between piano and violin
 
 ## Dividends
 
