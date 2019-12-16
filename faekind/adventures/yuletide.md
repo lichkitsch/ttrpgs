@@ -1,7 +1,7 @@
 # Yuletide
 
 ## Review
-Sorrel is a young child, out on a family vacation with her mom and dad. At the lodge, Sorrel sleepwalks into the Twilight on accident and gets lost, but the Twilight is an even stranger and has to find her way back to the lodge with the help of three faerie witches, who have some challenges for her.
+Sorrel is a young child out on a holiday vacation with her parents to a ski lodge. At the lodge, Sorrel sleepwalks into the Twilight on accident and gets lost. She has to find her way back to the lodge with the help of three faerie witches, but they won't help for free.
 
 ## Important NPCs
 
