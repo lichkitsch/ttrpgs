@@ -14,7 +14,7 @@ To play, you'll need:
 3. Flesh out your character (personality, history, appearance, motivations, etc.)
 
 ## Action Rolls
-If the outcome of an action is uncertain, you have to make an **action roll**. First, describe your character's action and roll `1d20`, then add the appropriate stat. If the result is higher than or equal to the _Air of Fate_, the outcome is positive. If not, your character suffers a consequence.
+If the outcome of an action is uncertain, make an **action roll**. Describe your action and roll `1d20`, then add the appropriate stat. If the result is higher than or equal to the _Air of Fate_, the outcome is positive. If not, you suffer a consequence.
 
 ## Action Rolls (cont.)
 When creatures make actions against each other, both make **contested** action rolls to reveal the outcome. The highest roll wins. In a tie, the outcome is a mixed result for both contestants.
@@ -28,7 +28,7 @@ Sometimes items, magic, or rest will replenish a target's HP using **effect dice
 
 
 ## Inventory
-Your character will collect special items on their adventure that can hurt or help them in the following ways:
+You collect special items on your adventure that can hurt or help in the following ways:
 
 - Add or subtract 1-3 points to specific action or effect rolls
 - Advantage (roll twice, keep higher) or disadvantage (roll twice, keep lower) on specific rolls

@@ -14,7 +14,7 @@ List out the relevant non-player characters, their notable traits, and what they
 Give the player(s) a clear goal with clear stakes.
 
 ## Locations & Obstacles
-Map out the locations to which your player(s) have access during this adventure, then fill the locations with traps, puzzles, and hostile creatures that stand between your player(s) and the goal.
+Map out the important locations available during this quest. Fill them with traps, puzzles, hostile creatures, and other obstacles that stand between your player(s) and the goal.
 
 ### Temple of Krul
 ![Map of the temple](photoSmall.png)
@@ -26,7 +26,7 @@ Map out the locations to which your player(s) have access during this adventure,
 5. Throne room; 
 
 ## Revelations
-List 10 secrets that could be revealed during this adventure that may lead to more adventures in the future.
+List 7-9 secrets or clues that could be revealed during this quest.
 
 1. 
 2. 
@@ -37,10 +37,9 @@ List 10 secrets that could be revealed during this adventure that may lead to mo
 7. 
 8. 
 9. 
-10. 
 
 ## Dividends
-List the rewards your player(s) can gain from this adventure including treasure, helpful objects, progress in the overarching narrative, and beneficial relationships.
+List the rewards your player(s) can gain from this quest including treasure, helpful objects, progress in the overarching narrative, and beneficial relationships.
 
 | Name | Details |
 |:---:|:--- |
