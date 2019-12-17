@@ -4,7 +4,7 @@ To play, you'll need:
 
 1. A set of dice
     - `1d4`, `1d6`, `1d8`, `1d10`, `1d12`, `1d20`
-2. A game master with a quest
+2. A game master (GM) with a quest
 3. A completed character sheet
 
 ## Character
@@ -16,13 +16,12 @@ To play, you'll need:
 ## Action Rolls
 If the outcome of an action is uncertain, make an **action roll**. Describe your action and roll `1d20`, then add the appropriate stat. If the result is higher than or equal to the _Air of Fate_, the outcome is positive. If not, you suffer a consequence.
 
-## Action Rolls (cont.)
 When creatures make actions against each other, both make **contested** action rolls to reveal the outcome. The highest roll wins. In a tie, the outcome is a mixed result for both contestants.
 
 ## Heart Points
 _dnduet_ uses **heart points** to describe physical, mental, and emotional integrity. When an action roll to reduce a target's HP is successful, you roll **effect dice** and use the result to reduce the target's HP.
 
-Sometimes items, magic, or rest will replenish a target's HP using **effect dice**. After a long rest (4+ hours free from immediate danger) your HP returns to full. If a creature's HP reaches zero, they can no longer make action rolls and are at the mercy of the winner.
+Sometimes items, magic, or a short rest will replenish a target's HP using **effect dice**. After a full night's sleep your HP returns to full. If a creature's HP reaches zero, they can no longer make action rolls and what happens next is up to the winner or the GM.
 
 ## Leveling Up
 
