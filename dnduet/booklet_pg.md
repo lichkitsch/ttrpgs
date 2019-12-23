@@ -31,7 +31,7 @@ You collect special items on your adventure that can hurt or help in the followi
 - Reduce or replenish an effect roll's worth of HP when held or used
 
 ## Leveling Up
-A character's level represents their ability to influence the world based on their power and experience, on a scale between 1 and 12. When the GM lets you level up, roll the appropriate dice to increase your max HP and add 1 point to any stat. Each stat can have a max of 5 points. Also, make note of the effect dice for your new level.
+Level represents your ability to influence the world based on power and experience, on a scale between 1 and 12. When the GM lets you level up, roll the right dice to increase your max HP, add 1 point to any stat (no more than 5 each), and update you effect dice for your new level.
 
 <table><tr><th></th><th>Max HP</th><th>Effect Dice</th></tr><tr><th>L1</th><td>10+<code>CON</code></td><td><code>1d4</code></td></tr><tr><th>L2</th><td>+<code>2d4</code></td><td><code>1d6</code></td></tr><tr><th>L3</th><td>+<code>2d4</code></td><td><code>1d8</code></td></tr><tr><th>L4</th><td>+<code>2d4</code></td><td><code>1d10</code></td></tr><tr><th>L5</th><td>+<code>3d6</code></td><td><code>2d6</code></td></tr><tr><th>L6</th><td>+<code>3d6</code></td><td><code>2d8</code></td></tr><tr><th>L7</th><td>+<code>3d6</code></td><td><code>2d10</code></td></tr><tr><th>L8</th><td>+<code>3d6</code></td><td><code>2d12</code></td></tr><tr><th>L9</th><td>+<code>3d12</code></td><td><code>3d10</code></td></tr><tr><th>L10</th><td>+<code>3d12</code></td><td><code>3d12</code></td></tr><tr><th>L11</th><td>+<code>3d12</code></td><td><code>4d10</code></td></tr><tr><th>L12</th><td>+<code>5d10</code></td><td><code>4d12</code></td></tr></table>
 
