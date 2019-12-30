@@ -25,7 +25,7 @@ The witches live in an old cottage sitting in a snow-covered evergreen section o
 |:---:|:---:|:--- |
 | 1 | Washing Room | Large tub, sink and mirror, toilet closet<br/><br/>Chestnut the troll baby is in need of a good scrubbing (`CON`) |
 | 2 | Bedroom | Mistletoe wants Sorrel to catch the mouse that's been squeaking at night and waking them (`DEX`) |
-| 3 | Sanctum | Fireplace, cauldron, shelf of ingredients<br/><br/>Winterberry needs assistance piecing together a love potion made from apple, strawberry, and rose petals (`INT`)<br/><br/>*Taste of cider, red as rose, Watch it closely as it glows, Brew for minutes three-by-three, Then dip in a red berry, Let love conquer, make it sweet, This love potion is complete.* |
+| 3 | Sanctum | Fireplace, cauldron, shelf of ingredients<br/><br/>Winterberry needs assistance piecing together a love potion made from apple, strawberry, and rose petals (`INT`)<br/><br/>*Taste of cider, red as rose,<br/>Watch it closely as it glows,<br/>Brew for minutes three-by-three,<br/>Then dip in a red berry,<br/>Love is charming, love is sweet,<br/>This love potion is complete.* |
 | A | Main Hall | Finally, before Sorrel can return home, the witches must teach her how to find open portals (`WIS`) |
 | B | Kitchen | Dried herbs hang from the ceiling, fully stocked pantry<br/><br/>Sorrel must aid Sugarplum in baking a yule log cake (`STR`) |
 | C | Dining Room | The witches want some entertainment while they eat their dinner (`CHA`) |
