@@ -3,7 +3,7 @@ A modern-day faerie princess navigates romantic, political, and supernatural tro
 
 ## Episode Summaries
 | Episode | Summary |
-|:---:|:--- |
+|:--- |:--- |
 | 1 - Night Knuckles | Sorrel fights Thorn in the ring, Beech and Oyster outside in the Sprawl, and meets Redd and Fox before getting in a car accident. |
 | 2 - Modern Day Hamlet | Sorrel, Fox, and Redd defend themselves from the gangsters who crashed into their car, ending with Redd being shot and Sorrel having to walk herself home. |
 | 3 - Nasty Dirty Stinky Girl |  |
