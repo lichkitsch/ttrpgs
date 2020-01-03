@@ -1,7 +1,6 @@
 # Faekind
 A modern-day faerie princess navigates romantic, political, and supernatural troubles in Paragon City.  
 
-## Episode Summaries
 | Ep. | Title | Summary |
 |:---:|:--- |:--- |
 | 1 | Night Knuckles | Sorrel fights Thorn in the ring, Beech and Oyster outside in the Sprawl, and meets Redd and Fox before getting in a car accident. |
