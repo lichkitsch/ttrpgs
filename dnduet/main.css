@@ -1,0 +1,76 @@
+.navbar-brand > .navbar-item {
+    color: #ff5987 !important;
+}
+.navbar-dropdown a.navbar-item.is-active {
+    background-color: whitesmoke !important;
+    color: #3273dc !important;
+}
+.narrow-content {
+    margin: 0 auto;
+    max-width: 768px;
+}
+.holder {
+    position: relative;
+}
+#hero-eps {
+    position: absolute;
+    bottom: 0; right: 0;
+    padding: 1rem;
+    background: rgba(0,0,0,0.5);
+    width: 100%;
+}
+#hero-img {
+    min-height: 240px;
+}
+.is-profile-pic {
+    margin: 0 auto;
+    height: auto;
+    width: 240px;
+}
+#youtube-embed {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+#youtube-embed > iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+#twitter-feed {
+    overflow-y: scroll;
+}
+#player, #game-master {
+    padding-top:0;
+}
+.is-fullwidth {
+    width: 100% !important;
+}
+#items > table {
+    border-radius: 6px;
+}
+.panel-tabs {
+    min-width: 250px;
+}
+.panel-tab > .panel-block:first-child {
+    border-top: 0;
+}
+.podcast_name {
+    display: none;
+}
+
+.episode {
+    margin: 32px auto;
+    padding-bottom: 32px;
+    border-bottom: 2px solid black;
+}
+.episode:last-of-type {
+    border: none;
+}
+
+iframe {
+    height: 70px;
+}
