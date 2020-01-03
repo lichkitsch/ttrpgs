@@ -13,6 +13,7 @@ A modern-day faerie princess navigates romantic, political, and supernatural tro
 | 8 | I gotta get outta here! |  |
 | 9 | Boar No Baby Doll | Sorrel defends herself against the new pig-shaped threat and things get screwy. |
 | 10 | Welcome to Hell! WELCOME TO HELL! |  |
+| 11 | _untitled_ | Sorrel and Fern meet Whisper, leave the library and meet up with Fox before heading to Sanguine. |
 
 ## Sorrel Danann
 Sorrel Danann is the princess of the Seely Court, heir to the throne, and a highly sought-after musician.  
