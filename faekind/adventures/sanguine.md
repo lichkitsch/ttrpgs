@@ -24,7 +24,7 @@ Help Malva to make the club opening a success by performing and mingling with th
 |:---:|:---:|:--- |
 | A | Box Office |  |
 | B | Lobby |  |
-| C | Waiting Areas |  |
+| C | Waiting Area |  |
 | D | Hall A |  |
 | E | Green Room |  |
 | F | Equipment Room |  |
