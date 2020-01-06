@@ -22,20 +22,20 @@ Help Malva to make the club opening a success by performing and mingling with th
 
 | # | Name | Description |
 |:---:|:---:|:--- |
-| A |  |  |
-| B |  |  |
-| C |  |  |
-| D |  |  |
-| E |  |  |
-| F |  |  |
-| G |  |  |
-| H |  |  |
-| I |  |  |
-| J |  |  |
-| K |  |  |
-| L |  |  |
-| M |  |  |
-| N |  |  |
+| A | Box Office |  |
+| B | Lobby |  |
+| C | Waiting Areas |  |
+| D | Hall A |  |
+| E | Green Room |  |
+| F | Equipment Room |  |
+| G | Hall B |  |
+| H | VIP Lounge |  |
+| I | Kitchen |  |
+| J | Pantry |  |
+| K | Cellar |  |
+| L | Malva's Office |  |
+| M | Bathroom |  |
+| N | Safe Room |  |
 
 ## Revelations
 
