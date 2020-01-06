@@ -18,7 +18,7 @@ Help Malva to make the club opening a success by performing and mingling with th
 
 ## Locations & Obstacles
 
-![](.png)
+![map of the nightclub Sanguine](images/sanguine.png)
 
 | # | Name | Description |
 |:---:|:---:|:--- |
