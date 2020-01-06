@@ -25,10 +25,10 @@ Help Malva to make the club opening a success by performing and mingling with th
 | A | Box Office |  |
 | B | Lobby |  |
 | C | Waiting Area |  |
-| D | Hall A |  |
+| D | Blackwood Hall |  |
 | E | Green Room |  |
 | F | Equipment Room |  |
-| G | Hall B |  |
+| G | Seely Hall |  |
 | H | VIP Lounge |  |
 | I | Kitchen |  |
 | J | Pantry |  |
