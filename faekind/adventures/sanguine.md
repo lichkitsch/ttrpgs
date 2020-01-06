@@ -22,7 +22,20 @@ Help Malva to make the club opening a success by performing and mingling with th
 
 | # | Name | Description |
 |:---:|:---:|:--- |
-|  |  |  |
+| A |  |  |
+| B |  |  |
+| C |  |  |
+| D |  |  |
+| E |  |  |
+| F |  |  |
+| G |  |  |
+| H |  |  |
+| I |  |  |
+| J |  |  |
+| K |  |  |
+| L |  |  |
+| M |  |  |
+| N |  |  |
 
 ## Revelations
 
