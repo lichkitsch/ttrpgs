@@ -21,7 +21,7 @@
 
 
 ## Character Sheet
-<table><tr><th colspan="5">Name</th><th>LV</th></tr><tr><td colspan="5">&nbsp;</td><td>&nbsp;</td></tr><tr><th colspan="2">HP</th><th colspan="2">MAX</th><th colspan="2">EFFECT</th></tr><tr><td colspan="2">&nbsp;</td><td colspan="2">&nbsp;</td><td colspan="2">&nbsp;</td></tr><tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><th colspan="6">Inventory</th></tr><tr><td colspan="6">&nbsp;</td></tr></table>
+<table><tr><th colspan="5">Name</th><th>LV</th></tr><tr><td colspan="5">&nbsp;</td><td>&nbsp;</td></tr><tr><th colspan="2">HP</th><th colspan="2">MAX</th><th colspan="2">EFFECT</th></tr><tr><td colspan="2">&nbsp;</td><td colspan="2">&nbsp;</td><td colspan="2">&nbsp;</td></tr><tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><th colspan="6">Inventory</th></tr><tr><td colspan="6">&nbsp;</td></tr><tr><th>Details</th></tr><tr><td></td></tr></table>
 
 ## Leveling Up
 
