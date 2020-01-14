@@ -16,7 +16,7 @@ When the outcome of a character's action is uncertain, the GM will ask the playe
 Contested rolls happen when a player acts against an NPC, so `1d20+STAT` against `1d20+STAT`. For the player, a result that is higher than the target leads to a positive outcome, lower leads to a negative outcome, and a tie leads to a mixed outcome.
 
 > _PC: I take my silver hammer and swing it at the werewolf's head.<br/>
-> GM: Okay, make a strength check and the werewolf will roll for dexterity to try and dodge.<br/>_
+> GM: Okay, make a strength check_ (`1d20+STR`) _and the werewolf will roll dexterity_ (`1d20+DEX`) _to try and dodge.<br/>_
 
 ### Heart Points
 
