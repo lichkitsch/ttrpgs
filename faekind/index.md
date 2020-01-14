@@ -25,3 +25,10 @@ Sorrel Danann is the princess of the Seely Court, heir to the throne, and a high
 | Maple Danann | Sorrel's mother, queen of the Seely Court and Mayor of Paragon City |
 | Fern | Sorrel's ex-girlfriend and best friend, gifted healer |
 | Aiden Fox | Detective investigating the crash, looking to become Sorrel's bodyguard |
+
+<hr/>
+
+An unknown figure stumbles through a city park, spits up a mushroom cap, and a red gloved hand with a gun fires off a shot. The scene then opens on the Brawl at the Sprawl and Sorrel is introduced as "the princess herself, Oxalis" before fighting and beating a satyr named Thorn. Sorrel gets a quick heal from Fern, meets the grape-vaping caterpillar living in her locker, and sets off for the bus stop. She is stopped by Hemlock, looking to make a quick buck but also more interested in making Sorrel's life hard, and ends up fighting Oyster and Beech. After running them off, Sorrel goes and sits at the bus stop and finally checks her phone to see a message from her dad that reads "Come home. Now." Two detectives, an older guy named Redd and a younger guy named Fox, come over to talk to Sorrel and see if they can escort her home after briefly questioning her about the blood and her presence in this part of the city, this late at night. After some dodging, Sorrel takes their offer and just as they drive off there's a message over the scanner about an erratic vehicle. Soon after, while passing through an intersection, their car is impacted by a large van.
+
+
+Sorrel wakes up to see Fox dragging her out of the over-turned car and setting her down next to Redd. There are three figures standing by the van which has a huge, warped hole in the back with long tears in the metal.
