@@ -23,7 +23,7 @@ Contested rolls happen when a player acts against an NPC, so `1d20+STAT` against
 Players, NPCs, and even some objects have **heart points (HP)**, a number that represents a combination of physical, mental, and emotional integrity. Actions can be made to reduce or replenish a target's HP. On a successful roll, the actor will roll their **effect dice**, a specific combination of dice that changes as a character levels up, and increase or decrease the target's HP by the result. 
 
 > _PC: I hit him!<br/>
-> GM: Alright you can roll your effect dice now.<br/>
+> GM: Alright, roll your effect dice.<br/>
 > PC: ...7?<br/>
 > GM: The hammer cracks against the werewolf's face and it winces, but quickly recovers and looks like it wants revenge.<br/>
 > PC: Aw, nuts..._
