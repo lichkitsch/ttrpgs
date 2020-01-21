@@ -41,16 +41,15 @@ Pick a plot below and slap some flavor on top with the setting, npcs, etc.
 | X finds the lost Y. |
 | X sees Y kill Z, their kin. |
 
-- Love/Hate
+- Love
 - Fear
-- Vengeance
 - Justice
-- Truth/Lies
+- Truth
 - Knowledge
 - Expression
 - Atonement
 - Loss
 - Birth
-- Death
+- Mortality
 - Time
 - 
