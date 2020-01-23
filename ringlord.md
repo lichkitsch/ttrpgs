@@ -4,7 +4,7 @@
 Bring the player(s) up to speed with some concise exposition.
 
 ## Important NPCs
-List out the relevant non-player characters, their notable traits, and what they know.
+List out the key non-player characters, their notable traits, and what they know.
 
 | Name | Details |
 |:---:|:--- |
