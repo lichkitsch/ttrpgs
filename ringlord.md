@@ -16,14 +16,14 @@ Give the player(s) a clear goal with clear stakes.
 ## Locations & Obstacles
 Map out the important locations available during this quest. Fill them with traps, puzzles, hostile creatures, and other obstacles that stand between your player(s) and the goal.
 
-### Temple of Krul
-![Map of the temple](photoSmall.png)
+### Specific Location
+![Map of the area]()
 
-1. Secret sealed gate; 
-2. Inner sanctum; 
-3. Prison cells; 
-4. Treasure trove; 
-5. Throne room; 
+**Legend**
+
+| ID | Area | Description |
+|:---:|:---:|:--- |
+| &nbsp; | &nbsp; | &nbsp; |
 
 ## Revelations
 List 7-9 secrets or clues that could be revealed during this quest.
@@ -39,6 +39,6 @@ List 7-9 secrets or clues that could be revealed during this quest.
 ## Dividends
 List the rewards your player(s) can gain from this quest including treasure, helpful objects, progress in the overarching narrative, and beneficial relationships.
 
-| Name | Details |
+| Name | Description |
 |:---:|:--- |
-| Ghostly Helm of Krul | The ghostly cursed helm of the goblin warlod Krul, +5 when intimidating goblins |
+| &nbsp; | &nbsp; |
