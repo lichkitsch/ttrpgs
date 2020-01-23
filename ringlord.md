@@ -28,14 +28,6 @@ Map out the important locations available during this quest. Fill them with trap
 ## Revelations
 List 7-9 secrets or clues that could be revealed during this quest.
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-
 ## Dividends
 List the rewards your player(s) can gain from this quest including treasure, helpful objects, progress in the overarching narrative, and beneficial relationships.
 
