@@ -24,23 +24,23 @@
 <table><tr><th colspan="5">Name</th><th>LV</th></tr><tr><td colspan="5">&nbsp;</td><td>&nbsp;</td></tr><tr><th colspan="2">HP</th><th colspan="2">MAX</th><th colspan="2">EFFECT</th></tr><tr><td colspan="2">&nbsp;</td><td colspan="2">&nbsp;</td><td colspan="2">&nbsp;</td></tr><tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><th colspan="6">Inventory</th></tr><tr><td colspan="6">&nbsp;</td></tr><tr><th colspan="6">Details</th></tr><tr><td colspan="6">&nbsp;</td></tr></table>
 
 ## NPC Shorthand
-Name / LV# race job / Motive<br/>A(#) E(#) W(#) F(#) M(#) / Notes
+Name / LV# race job / Archetype<br/>A(#) E(#) W(#) F(#) M(#) / Notes
 
-### Motives
+### Archetypes
 | Archetype | Wants | Fears |
 |:---:|:---:|:---:|
-| The Innocent | Paradise | Punishment |
-| The Sage | Knowledge | Ignorance |
-| The Explorer | Freedom | Confinement |
-| The Rebel | Liberation | Being powerless |
-| The Magician | Power | Negative outcomes |
-| The Hero | Mastery | Vulnerability |
-| The Lover | Intimacy | Rejection |
-| The Jester | Pleasure | Boredom |
-| The Everyman | To belong | Exile |
-| The Caregiver | To serve | Selfishness |
-| The Ruler | Control | Losing control |
-| The Artist | Innovation | Mediocrity |
+| Innocent | Paradise | Punishment |
+| Sage | Knowledge | Ignorance |
+| Explorer | Freedom | Confinement |
+| Rebel | Liberation | Being powerless |
+| Magician | Power | Negative outcomes |
+| Hero | Mastery | Vulnerability |
+| Lover | Intimacy | Rejection |
+| Jester | Pleasure | Boredom |
+| Everyman | To belong | Exile |
+| Caregiver | To serve | Selfishness |
+| Ruler | Control | Losing control |
+| Artist | Innovation | Mediocrity |
 
 ## Leveling Up
 
