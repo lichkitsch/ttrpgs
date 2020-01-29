@@ -24,15 +24,4 @@ Every character and some obstacles in _dnduet_ have heart points (HP) that repre
 ### RINGLORD
 _dnduet_ comes with a special quest-writing system for GMs represented by the acronym "RINGLORD":
 
-1. **R**eview
-   - Bring player(s) up to speed on the situation at hand.
-2. **I**mportant **N**PCs
-   - List the relevant NPCs with whom the player(s) will interact.
-3. **G**oal
-   - Provide a single clear, concise goal for the quest.
-4. **L**ocations and **O**bstacles
-   - Create maps of specific locations the player(s) can access during the quest, along with a list of simple descriptions of each area and the obstacles the player(s) might face there.
-5. **R**evelations
-   - List 7-9 clues, secrets, or other revelations that the player(s) might uncover during the course of the quest.
-6. **D**ividends
-   - List the possible rewards that the player(s) may acquire by the end of the quest.
+<table><tr><th>Review</th><td>Bring player(s) up to speed on the situation at hand.</td></tr><tr><th>Important NPCs</th><td>List the relevant NPCs with whom the player(s) will interact.</td></tr><tr><th>Goal</th><td>Provide a single clear, concise goal for the quest.</td></tr><tr><th>Locations and Obstacles</th><td>Create maps of specific locations the player(s) can access during the quest, along with a list of simple descriptions of each area and the obstacles the player(s) might face there.</td></tr><tr><th>Revelations</th><td>List 7-9 clues, secrets, or other revelations that the player(s) might uncover during the course of the quest.</td></tr><tr><th>Dividends</th><td>List the possible rewards that the player(s) may acquire by the end of the quest.</td></tr></table>
