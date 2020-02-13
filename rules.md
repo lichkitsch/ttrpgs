@@ -12,7 +12,7 @@ You'll need:
 There are three kinds of actions that a player can take in _dnduet_: free actions, skill checks, and contested rolls.
 
 - Free Action - The outcome is certain, no roll needed.
-- Skill Check - The outcome is uncertain, roll `1d20` and add one stat modifier to the result. Check the result against the _Air of Fate_ (AoF) to determine the outcome. The _`Air of Fate`_ is a number between 2 and 20 that represents the difficulty of an area or obstacle.
+- Skill Check - The outcome is uncertain, roll `1d20` and add one stat modifier to the result. Check the result against the _`Air of Fate`_ (AoF) to determine the outcome. The _`Air of Fate`_ is a number between 2 and 20 that represents the difficulty of an area or obstacle.
    - Result > AoF = Positive outcome
    - Result = AoF = Mixed outcome
    - Result < AoF = Negative outcome
