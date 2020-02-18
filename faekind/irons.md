@@ -9,9 +9,11 @@
 - What is Dahlia's deal?
 - Who is threatening Alder? What's going to happen on the deadline?
 - What's up with Jacob and the library?
-- Who is 
+- Who is Astrid? Who is Thaddeus?
+- What's the deal with Whisper?
 - Who is Malva? What is Sanguine?
 
+## Archetypes
 | Sign | Type | Positive | Negative |
 |:---:|:---:|:---:|:---:|
 | Aries | Warrior | Courageous | Aggressive |
@@ -27,6 +29,7 @@
 | Aquarius | Rebel | Progressive | Temperamental |
 | Pisces | Innocent | Compassionate | Escapism |
 
+## NPCS
 | Name | Description | Sign | Desire | Fear |
 |:---:|:--- |:---:|:---:|:---:|
 | Sorrell Danann |  | Gemini |  |  |
@@ -34,14 +37,16 @@
 | Hemlock Blackwood |  | Leo | Power | Powerlessness |
 | Beech |  | Libra | Purpose |  |
 | Oyster |  | Aquarius | Service |  |
-| Adrien Fox |  | Taurus | Belonging |  |
-| Redd |  | Aries | Revelation |  |
-| Alder Danann |  | Capricorn | Peace |  |
-| Maple Danann |  | Virgo | Progress |  |
+| Adrien Fox |  | Taurus | Belonging | Loneliness |
+| Redd |  | Aries | Revelation | Mental degradation |
+| Alder Danann |  | Capricorn | Peace | Secrets made public |
+| Maple Danann |  | Virgo | Progress | Derailment |
 | Dahlia Richards |  | Scorpio | Realization | Failure |
 | Belvedere |  | Sagittarius | Innovation | Ineffectiveness |
-| Jacob |  | Virgo |  |  |
+| Jacob |  | Virgo | Security | Prisoners escaping |
 | Astrid |  | Gemini | Freedom | Confinement |
 | Thaddeus |  | Pisces | Chaos | Punishment |
 | Whisper |  | Taurus |  |  |
-
+| Ash |  | Scorpio |  |  |
+| Malva |  | Aries |  |  |
+| Dogwood |  | Libra |  |  |
