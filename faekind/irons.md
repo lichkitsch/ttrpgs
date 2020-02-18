@@ -33,7 +33,7 @@
 | Fern |  | Pisces |
 | Hemlock Blackwood |  | Leo |
 | Beech |  | Libra |
-| Oyster |  | Cancer |
+| Oyster |  | Aquarius |
 | Adrien Fox |  | Taurus |
 | Redd |  | Aries |
 | Alder Danann |  | Capricorn |
