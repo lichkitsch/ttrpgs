@@ -11,6 +11,7 @@
 - What's up with Jacob and the library?
 - Who is Astrid? Who is Thaddeus?
 - What's the deal with Whisper?
+- Iron with license plate in the Twilight Realm?
 - Who is Malva? What is Sanguine?
 
 ## Archetypes
