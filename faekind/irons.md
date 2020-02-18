@@ -27,16 +27,21 @@
 | Aquarius | Rebel | Progressive | Temperamental |
 | Pisces | Innocent | Compassionate | Escapism |
 
-| Name | Description | Sign |
-|:---:|:--- |:---:|
-| Sorrell Danann |  | Gemini |
-| Fern |  | Pisces |
-| Hemlock Blackwood |  | Leo |
-| Beech |  | Libra |
-| Oyster |  | Aquarius |
-| Adrien Fox |  | Taurus |
-| Redd |  | Aries |
-| Alder Danann |  | Capricorn |
-| Maple Danann |  | Virgo |
-| Dahlia Richards |  | Scorpio |
-| Belvedere |  | Sagittarius |
+| Name | Description | Sign | Desire | Fear |
+|:---:|:--- |:---:|:---:|:---:|
+| Sorrell Danann |  | Gemini |  |  |
+| Fern |  | Pisces | Purpose |  |
+| Hemlock Blackwood |  | Leo | Power | Powerlessness |
+| Beech |  | Libra | Purpose |  |
+| Oyster |  | Aquarius | Service |  |
+| Adrien Fox |  | Taurus | Belonging |  |
+| Redd |  | Aries | Revelation |  |
+| Alder Danann |  | Capricorn | Peace |  |
+| Maple Danann |  | Virgo | Progress |  |
+| Dahlia Richards |  | Scorpio | Realization | Failure |
+| Belvedere |  | Sagittarius | Innovation | Ineffectiveness |
+| Jacob |  | Virgo |  |  |
+| Astrid |  | Gemini | Freedom | Confinement |
+| Thaddeus |  | Pisces | Chaos | Punishment |
+| Whisper |  | Taurus |  |  |
+
