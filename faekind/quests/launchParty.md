@@ -12,8 +12,24 @@
 | Beech | Happened to come to the opening of the club, trying to get away from Hemlock for a little while |
 | Dahlia | Also happened to come to the club opening, but with some knowledge that Sorrel would be there |
 
-
 ## Locations
 ### Sanguine
+![map of the nightclub Sanguine](images/sanguine.png)
 
+| # | Name | Description |
+|:---:|:---:|:--- |
+| A | Box Office |  |
+| B | Lobby |  |
+| C | Waiting Area |  |
+| D | Blackwood Hall |  |
+| E | Green Room |  |
+| F | Equipment Room |  |
+| G | Seely Hall |  |
+| H | VIP Lounge |  |
+| I | Kitchen |  |
+| J | Pantry |  |
+| K | Cellar |  |
+| L | Malva's Office |  |
+| M | Bathroom |  |
+| N | Safe Room |  |
 
