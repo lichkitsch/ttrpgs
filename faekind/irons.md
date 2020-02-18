@@ -34,7 +34,7 @@
 | Name | Description | Sign | Desire | Fear |
 |:---:|:--- |:---:|:---:|:---:|
 | Sorrell Danann |  | Gemini |  |  |
-| Fern |  | Pisces | Purpose |  |
+| Fern |  | Pisces |  |  |
 | Hemlock Blackwood |  | Leo | Power | Powerlessness |
 | Beech |  | Libra | Purpose |  |
 | Oyster |  | Aquarius | Service |  |
