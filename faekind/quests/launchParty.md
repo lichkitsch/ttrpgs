@@ -3,7 +3,6 @@
 ## Review
 Fern's friend requested Sorrell to play at the opening night of her club, for pay of course.
 
-**Updates**
 1. Redd still in hospital
 2. Acquired address from secret map
 3. Hemlock is alone?
@@ -30,7 +29,7 @@ Fern's friend requested Sorrell to play at the opening night of her club, for pa
 | D | Blackwood Hall | Blue, sharp, ice-inspired decor; |
 | E | Green Room |  |
 | F | Equipment Room | Backroom filled with wires, consoles, and screens; Dogwood |
-| G | Seely Hall | Decor like a gilded forest; Beech |
+| G | Seely Hall | Decor like a gilded forest; Beech; CHA for musical performance, AoF12 |
 | H | VIP Lounge | Lush seating area with a stocked bar and tables; Ash, Dahlia |
 | I | Kitchen | Standard kitchen, very clean; Thorn |
 | J | Pantry | Locked |
