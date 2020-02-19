@@ -18,7 +18,7 @@ Fern's friend requested Sorrell to play at the opening night of her club, for pa
 ![map of the nightclub Sanguine](images/sanguine.png)
 
 | ID | Description | Notes |
-|:---:|:---:|:--- |
+|:---:|:--- |:--- |
 | A | Box Office |  |
 | B | Lobby - Bathrooms, benches, and posters | Malva |
 | C | Waiting Area - Velvet ropes block the hall entrances |  |
