@@ -9,7 +9,7 @@
 ## Maps
 
 ### Location Name
-![alt text](# "Title")
+![alt text](./asylum_of_the_undead_prince.png "Title")
 
 | ID | Description | Notes |
 |:---:|:--- |:--- |
