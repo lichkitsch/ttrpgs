@@ -17,20 +17,20 @@ Fern's friend requested Sorrell to play at the opening night of her club, for pa
 ## Sanguine
 ![map of the nightclub Sanguine](images/sanguine.png)
 
-| # | Name | Description |
+| ID | Description | Notes |
 |:---:|:---:|:--- |
 | A | Box Office |  |
-| B | Lobby | Bathrooms, benches, and posters; Malva |
-| C | Waiting Area | Velvet ropes block the hall entrances; |
-| D | Blackwood Hall | Blue, sharp, ice-inspired decor; |
+| B | Lobby - Bathrooms, benches, and posters | Malva |
+| C | Waiting Area - Velvet ropes block the hall entrances |  |
+| D | Blackwood Hall - Blue, sharp, ice-inspired decor |  |
 | E | Green Room |  |
-| F | Equipment Room | Backroom filled with wires, consoles, and screens; Dogwood |
-| G | Seely Hall | Decor like a gilded forest; Beech;<br /> CHA for musical performance, AoF12 |
-| H | VIP Lounge | Lush seating area with a stocked bar and tables; Ash, Dahlia |
-| I | Kitchen | Standard kitchen, very clean; Thorn |
-| J | Pantry | Locked |
-| K | Cellar | Locked |
-| L | Malva's Office | Locked |
-| M | Bathroom |  |
-| N | Safe Room | Locked |
+| F | Equipment Room - Backroom filled with wires, consoles, and screens | Dogwood |
+| G | Seely Hall - Decor like a gilded forest | Beech;<br />`CHA for musical performance, AoF12` |
+| H | VIP Lounge - Lush seating area with a stocked bar and tables | Ash, Dahlia |
+| I | Kitchen - Standard kitchen, very clean | Thorn |
+| J | Pantry - Locked |  |
+| K | Cellar - Locked |  |
+| L | Malva's Office - Locked |  |
+| M | Bathroom - Locked |  |
+| N | Safe Room - Locked |  |
 
