@@ -11,7 +11,7 @@ Fern's friend requested that Sorrel play at the opening night of her club, for p
 | **Ash**<br/>_(Naga Barkeep)_ | Sharp features, pale skin, green eyes, uniform; apologetic |  |
 | **Dogwood**<br/>_(Satyr DJ)_ | Baggy clothes and beanie, cheeto fingers; laidback |  |
 | **Beech**<br/>_(Lackey)_ |  | `time away from Hemlock` |
-| **Dahlia**<br/>_(Human)_ |  | `knew Sorrel would be playing` |
+| **Dahlia Richards**<br/>_(Human)_ |  | `knew Sorrel would be playing` |
 | **Thorn**<br/>_(Satyr Chef)_ | Bruises, messy apron; surprisingly friendly | `works for Malva now` |
 
 ## Sanguine
