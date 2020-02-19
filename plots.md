@@ -2,6 +2,34 @@
 
 Pick a plot below and slap some flavor on top with the setting, npcs, etc.
 
+- Protection/rescue
+- Retribution/vengeance
+- Misunderstood fugitive
+- Understanding of sin committed
+- Harm from mental illness
+- Harm from ignorance
+- Revealed harm of a beloved
+- Victim allied to avenger and source of harm
+- Victim of cruelty/misfortune
+- Victim of misfortune conflicts with ally
+- Victim of misfortune blames an innocent
+- Fall from power
+- Resistance/revolution
+- Action to acquire coveted object
+- Life lesson via problem-solving
+- Conflicting kinsmen conspire
+- Unknowing murder of kinsmen
+- Rejected for rival
+- Victory over rival
+- Sacrifice/necessary unwanted action
+- Known/unknown forbidden love
+- Lovers against obstacle
+- An enemy loved
+- Consequences of infidelity
+- Mortal v. immortal
+- Lost and found
+
+
 | Plots |
 |:--- |
 | X asks Y to save them from Z. |
