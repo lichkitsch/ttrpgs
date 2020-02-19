@@ -19,18 +19,18 @@ Fern's friend requested that Sorrel play at the opening night of her club, for p
 
 | ID | Description | Notes |
 |:---:|:--- |:--- |
-| A | Box Office |  |
-| B | Lobby - Bathrooms, benches, and posters | Malva |
-| C | Waiting Area - Velvet ropes block the hall entrances |  |
-| D | Blackwood Hall - Blue, sharp, ice-inspired decor |  |
+| A | Box Office - line of people impatiently buying/presenting tickets |  |
+| B | Lobby - bathrooms, benches, and posters | Malva |
+| C | Waiting Area - velvet ropes block the hall entrances |  |
+| D | Blackwood Hall - blue, sharp, ice-inspired decor |  |
 | E | Green Room |  |
-| F | Equipment Room - Backroom filled with wires, consoles, and screens | Dogwood |
-| G | Seely Hall - Decor like a gilded forest _(AoF12)_ | Beech<br />`Keytar performance` |
-| H | VIP Lounge - Lush seating area with a stocked bar and tables | Ash, Dahlia |
-| I | Kitchen - Standard kitchen, very clean | Thorn |
-| J | Pantry - Locked |  |
-| K | Cellar - Locked |  |
-| L | Malva's Office - Locked |  |
-| M | Bathroom - Locked |  |
-| N | Safe Room - Locked |  |
+| F | Equipment Room - backroom filled with wires, consoles, and screens | Dogwood |
+| G | Seely Hall - decor like a gilded forest _(AoF12)_ | Beech<br />`Keytar performance` |
+| H | VIP Lounge - lush seating area with a stocked bar and tables | Ash, Dahlia |
+| I | Kitchen - standard kitchen, very clean | Thorn |
+| J | Pantry - locked |  |
+| K | Cellar - locked |  |
+| L | Malva's Office - locked |  |
+| M | Bathroom - locked |  |
+| N | Safe Room - locked |  |
 
