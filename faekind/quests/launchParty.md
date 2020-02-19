@@ -1,13 +1,10 @@
 # Launch Party
-
-## Review
 Fern's friend requested Sorrell to play at the opening night of her club, for pay of course.
 
 1. Redd still in hospital
 2. Acquired address from secret map
 3. Hemlock is alone?
 
-## Important NPCs
 | Name | Description |
 |:---:|:--- |
 | Malva | Naiad; dark skin, blue eyes and hair, urban fashion; owner of Sanguine; tough but inviting |
@@ -17,8 +14,7 @@ Fern's friend requested Sorrell to play at the opening night of her club, for pa
 | Dahlia | Also happened to come to the club opening, but with some knowledge that Sorrel would be there |
 | Thorn | Saytr from episode 1, now works for Malva as a chef |
 
-## Locations
-### Sanguine
+## Sanguine
 ![map of the nightclub Sanguine](images/sanguine.png)
 
 | # | Name | Description |
