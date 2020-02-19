@@ -7,12 +7,12 @@ Fern's friend requested that Sorrel play at the opening night of her club, for p
 
 | NPC | Description | Notes |
 |:---:|:--- |:--- |
-| Malva<br/>_(Owner)_ | Naiad; dark skin, blue eyes and hair, urban fashion; welcoming |  |
-| Ash<br/>_(Bartender)_ | Naga; sharp features, pale skin, green eyes, uniform; apologetic |  |
-| Dogwood<br/>_(DJ)_ | Satyr; baggy clothes and beanie, cheeto fingers; laidback |  |
+| Malva<br/>_(Naiad Owner)_ | Dark skin, blue eyes and hair, urban fashion; welcoming |  |
+| Ash<br/>_(Naga Bartender)_ | Sharp features, pale skin, green eyes, uniform; apologetic |  |
+| Dogwood<br/>_(Satyr DJ)_ | Baggy clothes and beanie, cheeto fingers; laidback |  |
 | Beech<br/>_(Lackey)_ |  | `time away from Hemlock` |
 | Dahlia |  | `knew Sorrel would be playing` |
-| Thorn<br/>_(Chef)_ | Saytr from episode 1 | `works for Malva now` |
+| Thorn<br/>_(Satyr Chef)_ |  | `works for Malva now` |
 
 ## Sanguine
 ![map of the nightclub Sanguine](images/sanguine.png)
