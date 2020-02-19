@@ -6,7 +6,7 @@ Fern's friend requested that Sorrel play at the opening night of her club, for p
 3. Hemlock is alone?
 
 | NPC | Description | Notes |
-|:--- |:--- |:--- |
+|:---:|:--- |:--- |
 | Malva<br/>_(Owner)_ | Naiad; dark skin, blue eyes and hair, urban fashion; welcoming |  |
 | Ash<br/>_(Bartender)_ | Naga; sharp features, pale skin, green eyes, uniform; apologetic |  |
 | Dogwood<br/>_(DJ)_ | Satyr; baggy clothes and beanie, cheeto fingers; laidback |  |
