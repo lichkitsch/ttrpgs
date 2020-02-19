@@ -10,8 +10,8 @@ Fern's friend requested that Sorrel play at the opening night of her club, for p
 | **Malva**<br/>_(Naiad Owner)_ | Dark skin, blue eyes and hair, urban fashion; welcoming |  |
 | **Ash**<br/>_(Naga Barkeep)_ | Sharp features, pale skin, green eyes, uniform; apologetic |  |
 | **Dogwood**<br/>_(Satyr DJ)_ | Baggy clothes and beanie, cheeto fingers; laidback |  |
-| **Beech**<br/>_(Lackey)_ |  | `time away from Hemlock` |
-| **Dahlia Richards**<br/>_(Human)_ |  | `knew Sorrel would be playing` |
+| **Beech**<br/>_(Lackey)_ | Ice-blue sequin dress, hair in messy bun; tired | `time away from Hemlock` |
+| **Dahlia Richards**<br/>_(Human)_ | Strappy red dress and heels, bob cut; curious | `knew Sorrel would be playing` |
 | **Thorn**<br/>_(Satyr Chef)_ | Bruises, messy apron; surprisingly friendly | `works for Malva now` |
 
 ## Sanguine
