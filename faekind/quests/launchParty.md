@@ -8,7 +8,7 @@ Fern's friend requested that Sorrel play at the opening night of her club, for p
 | NPC | Description | Notes |
 |:---:|:--- |:--- |
 | **Malva**<br/>_(Naiad Owner)_ | Dark skin, blue eyes and hair, urban fashion; welcoming |  |
-| **Ash**<br/>_(Naga Barkeep)_ | Sharp features, pale skin, green eyes, uniform; apologetic |  |
+| **Ash**<br/>_(Naga Barkeep)_ | Sharp features, pale skin, green eyes, uniform; apologetic | Fern's new S.O. |
 | **Dogwood**<br/>_(Satyr DJ)_ | Baggy clothes and beanie, cheeto fingers; laidback |  |
 | **Beech**<br/>_(Lackey)_ | Ice-blue sequin dress, hair in messy bun; tired | Taking time away from Hemlock |
 | **Dahlia Richards**<br/>_(Human)_ | Strappy red dress and heels, bob cut; curious | Knew Sorrel would be playing |
@@ -23,7 +23,7 @@ Fern's friend requested that Sorrel play at the opening night of her club, for p
 | B | Lobby - bathrooms, benches, and posters | Malva |
 | C | Waiting Area - velvet ropes block the hall entrances |  |
 | D | Blackwood Hall - blue, sharp, ice-inspired decor, mini-bar, tables, and dance floor |  |
-| E | Green Room - open room with vanities and refreshments |  |
+| E | Green Room - open room with vanities, refreshments, and quick-grab equipment |  |
 | F | Equipment Room - backroom filled with wires, consoles, and screens | Dogwood |
 | G | Seely Hall - decor like a gilded forest, mini-bar, tables, and dance floor _(AoF12)_ | Beech<br />`Keytar performance` |
 | H | VIP Lounge - lush seating area with a stocked bar and tables | Ash, Dahlia |
