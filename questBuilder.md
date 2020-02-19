@@ -1,15 +1,12 @@
 # Quest Name
 Sir William is dead and the killer is still on the estate grounds.
 
-## Important NPCs
 | Name | Description | Notes |
 |:--- |:--- |:--- |
 | Eames | Butler; tall, wrinkled, and bald with impeccable attire. | `knows William hated cream in his coffee` |
 | Cicero | Assassin; dressed as a jester, painted face, dark eyes. | `30hp / str+3 dex+2 int-1 cha-4`<br/><br/>`Loot: 40g and joke dagger` |
 
-## Maps
-
-### Location Name
+### Sir William's Estate - House
 ![alt text](./asylum_of_the_undead_prince.png "Title")
 
 | ID | Description | Notes |
