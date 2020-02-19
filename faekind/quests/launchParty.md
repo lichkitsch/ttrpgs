@@ -7,8 +7,8 @@ Fern's friend requested that Sorrel play at the opening night of her club, for p
 
 | NPC | Description | Notes |
 |:--- |:--- |:--- |
-| Malva<br/>_(Owner)_ | Naiad; dark skin, blue eyes and hair, urban fashion; tough but inviting |  |
-| Ash<br/>_(Bartender)_ | Naga; sharp features, pale skin, green eyes, uniform; defensive and serious |  |
+| Malva<br/>_(Owner)_ | Naiad; dark skin, blue eyes and hair, urban fashion; welcoming |  |
+| Ash<br/>_(Bartender)_ | Naga; sharp features, pale skin, green eyes, uniform; apologetic |  |
 | Dogwood<br/>_(DJ)_ | Satyr; baggy clothes and beanie, cheeto fingers; laidback |  |
 | Beech<br/>_(Lackey)_ |  | `time away from Hemlock` |
 | Dahlia |  | `knew Sorrel would be playing` |
