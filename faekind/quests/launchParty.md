@@ -1,5 +1,5 @@
 # Launch Party
-Fern's friend requested Sorrell to play at the opening night of her club, for pay of course.
+Fern's friend requested that Sorrel play at the opening night of her club, for pay of course.
 
 1. Redd still in hospital
 2. Acquired address from secret map
@@ -8,11 +8,11 @@ Fern's friend requested Sorrell to play at the opening night of her club, for pa
 | NPC | Description | Notes |
 |:--- |:--- |:--- |
 | Malva<br/>_(Owner)_ | Naiad; dark skin, blue eyes and hair, urban fashion; tough but inviting |  |
-| Ash<br/>_(Bartender)_ | Naga; dark, sharp features, pale skin, green eyes, uniform; works as bartender, apron and darkness hide her lower half; defensive and serious |  |
-| Dogwood<br/>_(DJ)_ | Satyr; soft, curly brown hair and eyes, baggy clothes and beanie, cheeto fingers; DJ and sound engineer; messy and chill | `DJ and sound engineer` |
+| Ash<br/>_(Bartender)_ | Naga; dark, sharp features, pale skin, green eyes, uniform; defensive and serious |  |
+| Dogwood<br/>_(DJ)_ | Satyr; curly brown hair, baggy clothes and beanie, cheeto fingers; laidback |  |
 | Beech<br/>_(Lackey)_ |  | `time away from Hemlock` |
 | Dahlia |  | `knew Sorrel would be playing` |
-| Thorn<br/>_(Chef)_ | Saytr from episode 1 | `works for Malva as a chef` |
+| Thorn<br/>_(Chef)_ | Saytr from episode 1 | `works for Malva now` |
 
 ## Sanguine
 ![map of the nightclub Sanguine](images/sanguine.png)
