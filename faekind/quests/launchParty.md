@@ -25,7 +25,7 @@ Fern's friend requested that Sorrel play at the opening night of her club, for p
 | D | Blackwood Hall - blue, sharp, ice-inspired decor, mini-bar, tables, and dance floor |  |
 | E | Green Room - open room with vanities, refreshments, and quick-grab equipment |  |
 | F | Equipment Room - backroom filled with wires, consoles, and screens | Dogwood |
-| G | Seely Hall - decor like a gilded forest, mini-bar, tables, and dance floor _(AoF12)_ | Beech<br />`Keytar performance` |
+| G | Seely Hall - decor like a gilded forest, mini-bar, tables, and dance floor _(AoF12)_ | Beech<br />`Keytar performance / $Wd10*10` |
 | H | VIP Lounge - lush seating area with a stocked bar and tables | Ash, Dahlia |
 | I | Kitchen - standard kitchen, very clean | Thorn |
 | J | Pantry - locked |  |
