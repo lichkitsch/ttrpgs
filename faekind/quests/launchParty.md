@@ -33,6 +33,6 @@ Fern's friend requested that Sorrel play at the opening night of her club, for p
 | J | Pantry - locked |  |
 | K | Cellar - locked |  |
 | L | Malva's Office - locked |  |
-| M | Bathroom - locked |  |
+| M | Bathroom - luxurious gold and marble decor; secret panel on far wall |  |
 | N | Safe Room - locked, secret stairs behind wall | `salamander hidden below` |
 
