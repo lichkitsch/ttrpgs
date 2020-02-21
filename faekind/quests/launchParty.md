@@ -34,5 +34,5 @@ Fern's friend requested that Sorrel play at the opening night of her club, for p
 | K | Cellar - locked |  |
 | L | Malva's Office - locked |  |
 | M | Bathroom - locked |  |
-| N | Safe Room - locked, secret stairs behind wall | `salamander hidden under club` |
+| N | Safe Room - locked, secret stairs behind wall | `salamander hidden below` |
 
