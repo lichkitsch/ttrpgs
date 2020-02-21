@@ -4,6 +4,8 @@ Fern's friend requested that Sorrel play at the opening night of her club, for p
 1. Redd still in hospital
 2. Acquired address from secret map
 3. Hemlock is alone?
+4. Creature on the loose
+5. Threat ~2 days away
 
 | NPC | Description | Notes |
 |:---:|:--- |:--- |
