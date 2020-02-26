@@ -1,12 +1,18 @@
 # Irons in the Fire
 
 - Why does Hemlock hate Sorrel? How long has this gone on for?
+  - Hemlock is jealous of Sorrel, has been since they were toddlers. Wants to be the only ruler of the all fae, not just half.
 - What's the deal with his bodyguards, Oyster and Beech?
-- Who is Adrien Fox? Where did he come from?
+  - Oyster is loyal to the crown and paid by Hemlock's parents to keep him from harm. Beech was a homeless orphan that Hemlock offered a job because she looked "just so pathetic."
+- Who is Fox? Where did he come from?
+  - Fox is the true heir to the Unseelie court, switched at birth with a changeling on Maple's orders. He went through foster homes until an accident which led to him being alone.
 - Who is Jasper?
+  - Jasper Thornblood is the head of the Thornbloods, a powerful criminal organization based in Paragon City. He's being paid by Dahlia to steal fae.
 - How is Redd healing after his gunshot?
 - What was in the back of the van that crashed into Redd's car?
+  - A salamander, mistaken for a fire-breathing dragon from western mythology.
 - What is Dahlia's deal?
+  - Dahlia is trying to free her master and lover, the first spirit of war, Fir, from his prison.
 - Who is threatening Alder? What's going to happen on the deadline?
 - What's up with Jacob and the library?
 - Who is Astrid? Who is Thaddeus?
