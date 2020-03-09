@@ -1,13 +1,5 @@
 # _dnduet_
 
-You'll need:
-
-1. A player with a completed character sheet (PC)
-2. A game master (GM) with a quest (and notes)
-3. A set of RPG dice or <a href="https://www.google.com/search?q=dice+roller" target="_blank">a digital alternative</a>
-4. A copy of these rules
-
-
 ## Action Rolls
 There are three kinds of actions that a player can take in _dnduet_: free actions, skill checks, and contested rolls.
 
@@ -23,6 +15,20 @@ There are three kinds of actions that a player can take in _dnduet_: free action
 Every character and some obstacles in _dnduet_ have _`Heart Points`_ (HP) that represent a combination of physical, mental, and emotional integrity. When an action that would reduce or replenish the HP of a target is successful, the actor rolls their _`Effect Dice`_ to see how much effect the action had on the target's HP. When HP reaches zero the character can no longer act or the obstacle has been overcome.
 
 <table><tr><th>LV</th><th>Effect Dice</th><th>Max HP</th></tr><tr><th>1</th><td><code>1d4</code></td><td><code>10+CON</code></td></tr><tr><th>2</th><td><code>1d6</code></td><td><code>+2d4</code></td></tr><tr><th>3</th><td><code>1d8</code></td><td><code>+2d4</code></td></tr><tr><th>4</th><td><code>1d10</code></td><td><code>+2d4</code></td></tr><tr><th>5</th><td><code>2d6</code></td><td><code>+3d6</code></td></tr><tr><th>6</th><td><code>2d8</code></td><td><code>+3d6</code></td></tr><tr><th>7</th><td><code>2d10</code></td><td><code>+3d6</code></td></tr><tr><th>8</th><td><code>2d12</code></td><td><code>+3d6</code></td></tr><tr><th>9</th><td><code>3d10</code></td><td><code>+3d12</code></td></tr><tr><th>10</th><td><code>3d12</code></td><td><code>+3d12</code></td></tr><tr><th>11</th><td><code>4d10</code></td><td><code>+3d12</code></td></tr><tr><th>12</th><td><code>4d12</code></td><td><code>+5d10</code></td></tr></table>
+
+## Item/Magic Bonus
+Objects, clothing, spells, etc. each have a ranking which indicates the number of times it can be used in a day (based on your level) and what bonus is applied:
+
+| Rank | Uses/day | Bonus |
+|:---:|:---:|:--- |
+| F | L+1 | Cursed, -1 to action |
+| D | L+0 | Mundane, +0 to action |
+| C | L-1 | Common, +1 to action |
+| B | L-2 | Rare, +2 to action |
+| A | L-3 | Very Rare, +3 to action |
+| S | L-4 | Legendary, reroll action |
+
+\*Objects and spells can still be useful, even without a bonus. Think of a coil of wire or a normal canteen: useful but not worth a bonus. 
 
 ## For GMs
 ### RINGLORD
