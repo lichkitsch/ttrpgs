@@ -7,5 +7,5 @@ After leaving the club, Fern apologizes because she wants to go back and spend t
 - Dahlia with recording
 - Two days left for threat
 - Jacob containing prisoner problem
-- Still no info on Jasper
+- Still no info on Jasper or the smugglers
 
