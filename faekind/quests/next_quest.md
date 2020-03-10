@@ -10,6 +10,13 @@ After leaving the club, Fern apologizes because she wants to go back and spend t
 - Jacob containing prisoner problem
 - Still no info on Jasper or the smugglers
 
-Episode will likely focus on Sorrel and Fox talking on the way home, with Fox asking prodding questions and responding cryptically to Sorrel's questions. There are things that Sorrel can trigger, but rather than constantly throw hooks at her, I'd prefer to encourage her to make the choices about what to pursue or avoid. She's not an adventurer, per say, and being a person-of-interest in the city makes it difficult to justify making her do anything that she can't enlist someone more suited to do it for her. Sorrel needs to be made responsible for something, something she actually cares about, to up the stakes and drive the story forward.
+_Episode will likely focus on Sorrel and Fox talking on the way home, with Fox asking prodding questions and responding cryptically to Sorrel's questions. There are things that Sorrel can trigger, but rather than constantly throw hooks at her, I'd prefer to encourage her to make the choices about what to pursue or avoid. She's not an adventurer, per say, and being a person-of-interest in the city makes it difficult to justify making her do anything that she can't enlist someone more suited to do it for her. Sorrel needs to be made responsible for something, something she actually cares about, to up the stakes and drive the story forward._
 
+| Name | Notes |
+|:---:|:--- |
+| Fox |  |
+| Basil |  |
+| Alder |  |
+| Maple |  |
 
+## Oberon Electronics
