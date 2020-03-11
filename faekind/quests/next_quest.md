@@ -20,11 +20,12 @@ _Episode will likely focus on Sorrel and Fox talking on the way home, with Fox a
 | Basil | keep Alder's secrets safe | investigate the threat alone |
 | Alder |  |  |
 | Maple | avoid faerie exposure | meet with the Blackwoods |
+| Dahlia | free Fyr from prison | play the recording to break the lock |
 
 ## Oberon Electronics
 On their way to Sorrel's home, make a travel roll:
 
-| Result | Outcome |
+| Roll | Outcome |
 |:---:|:--- |
 | &gt; AoF | A light drizzle starts while Fox and Sorrel walk back to the tower, prompting some puddle-splashing fun |
 | = AoF | Fox admits that the club had a strange atmosphere and questions Sorrel about her friends |
