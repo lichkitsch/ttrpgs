@@ -13,16 +13,16 @@ _Episode will likely focus on Sorrel and Fox talking on the way home, with Fox a
 - Still no info on Jasper or the smugglers
 
 ### NPCs
-| NPC | wants... | so... |
+| NPC | wants to... | so they will... |
 |:---:|:--- |:--- |
-| Fern | to hang out with her new GF |  |
-| Fox | to learn more about Sorrel | he'll ask her about her family |
-| Basil | to keep Alder's secrets safe | he'll investigate on his own |
-| Alder | to find the source of the disappearances | he'll enlist sorrel to gather intel |
-| Maple | to quiet down faerie activity to avoid a slip-up | she'll have an audience with the chief of police |
+| Fern | hang out with her new GF |  |
+| Fox | learn more about Sorrel | ask about her family |
+| Basil | keep Alder's secrets safe | investigate the threat alone |
+| Alder |  |  |
+| Maple | avoid faerie exposure | meet with the Blackwoods |
 
 ## Oberon Electronics
-On their way back to Sorrel's home, make a travel roll:
+On their way to Sorrel's home, make a travel roll:
 
 | Result | Outcome |
 |:---:|:--- |
