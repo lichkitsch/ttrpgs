@@ -13,12 +13,13 @@ _Episode will likely focus on Sorrel and Fox talking on the way home, with Fox a
 - Still no info on Jasper or the smugglers
 
 ### NPCs
-| Name | Notes |
-|:---:|:--- |
-| Fox | Starting to get very suspicious and ask more questions |
-| Basil | Worried about the threat more than the salamander |
-| Alder | Wants to ignore the threat and work on something real (the salamander) while his "people" work on the other case |
-| Maple | Wants things to be contained quickly |
+| NPC | wants... | so... |
+|:---:|:--- |:--- |
+| Fern | to hang out with her new GF |  |
+| Fox | to learn more about Sorrel | he'll ask her about her family |
+| Basil | to keep Alder's secrets safe | he'll investigate on his own |
+| Alder | to find the source of the disappearances | he'll enlist sorrel to gather intel |
+| Maple | to quiet down faerie activity to avoid a slip-up | she'll have an audience with the chief of police |
 
 ## Oberon Electronics
 On their way back to Sorrel's home, make a travel roll:
