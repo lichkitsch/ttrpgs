@@ -25,8 +25,10 @@ On their way back to Sorrel's home, make a travel roll:
 
 | Result | Outcome |
 |:---:|:--- |
-| > AoF | A light drizzle starts while Fox and Sorrel walk back to the Tower, prompting some puddle splashing fun |
+| &gt; AoF | A light drizzle starts while Fox and Sorrel walk back to the tower, prompting some puddle-splashing fun |
 | = AoF | Fox admits that the club had a strange atmosphere and questions Sorrel about her friends |
-| < AoF | A storm kicks up and Fox wants to wait it out in a taxi; the driver is Unseelie, recognizes Sorrel, and refuses service, prompting a difficult question from Fox (what was that about?) |
+| &lt; AoF | A storm kicks up and Fox wants to wait it out in a taxi; the driver is Unseelie, recognizes Sorrel, and refuses service, prompting a difficult question from Fox (what was that about?) |
+
+
 
 
