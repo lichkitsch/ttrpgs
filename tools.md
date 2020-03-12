@@ -1,5 +1,11 @@
 # _dnduet_ Tools
 
+## NPC Motivations
+
+| NPC | wants to... | so they... |
+|:---:|:--- |:--- |
+|  |  |  |
+
 ## Travel Table
 
 | Roll | Outcome |
