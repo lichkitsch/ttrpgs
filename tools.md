@@ -18,6 +18,6 @@
 
 (img here)
 
-| id | Description | Notes |
+| ID | Description | Notes |
 |:---:|:--- |:--- |
-|  |  |  |
+| A | cozy cabin, locked up tight | trapdoor behind stairs leads to B |
