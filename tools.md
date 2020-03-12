@@ -4,7 +4,7 @@
 
 | NPC | wants to... | so they... |
 |:---:|:--- |:--- |
-|  |  |  |
+| King Kingman | protect his family from the spies | order everyone outside the castle walls at night |
 
 ## Travel Table
 
