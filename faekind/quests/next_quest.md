@@ -5,7 +5,6 @@ _Episode will likely focus on Sorrel and Fox talking on the way home, with Fox a
 
 ### Hooks
 
-- Redd in the hospital
 - The salamander underneath Sanguine
 - Dahlia with recording
 - Two days left for threat
@@ -15,10 +14,10 @@ _Episode will likely focus on Sorrel and Fox talking on the way home, with Fox a
 ### NPCs
 | NPC | wants to... | so they will... |
 |:---:|:--- |:--- |
-| Fern | hang out with her new GF |  |
+| Fern | hang out with her new GF | not be around much for this next part |
 | Fox | learn more about Sorrel | ask about her family |
 | Basil | keep Alder's secrets safe | investigate the threat alone |
-| Alder |  |  |
+| Alder | wants to secure the salamander quickly | send his team to fetch it |
 | Maple | avoid faerie exposure | meet with the Blackwoods |
 | Dahlia | free Fyr from prison | play the recording to break the lock |
 
