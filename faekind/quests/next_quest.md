@@ -30,6 +30,7 @@ On their way to Sorrel's home, make a travel roll:
 | = AoF | Fox admits that the club had a strange atmosphere and questions Sorrel about her friends |
 | &lt; AoF | A storm kicks up and Fox wants to wait it out in a taxi; the driver is Unseelie, recognizes Sorrel, and refuses service, prompting a difficult question from Fox (what was that about?) |
 
+Sorrel may want to go to the place listed on the map, but would maybe want to wait for Fern? Fox wants Sorrel to make safe decisions, stay home kind of thing. Maybe Sorrel wants to sneak out and fight at the sprawl? Jacob could show back up with some new info. Maybe he wants to apologize again and explain something about a possible agent working away at his bubble prisons?
 
-
+Jacob will probably want Sorrel to act as bait and go through the portal again or, failing that, request that she enlist Fern to be bait (in tightening up the security, jacob made it so travel will only work with someone who's been there already).
 
