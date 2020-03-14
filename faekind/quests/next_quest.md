@@ -32,5 +32,4 @@ On their way to Sorrel's home, make a travel roll:
 
 Sorrel may want to go to the place listed on the map, but would maybe want to wait for Fern? Fox wants Sorrel to make safe decisions, stay home kind of thing. Maybe Sorrel wants to sneak out and fight at the sprawl? Jacob could show back up with some new info. Maybe he wants to apologize again and explain something about a possible agent working away at his bubble prisons?
 
-Jacob will probably want Sorrel to act as bait and go through the portal again or, failing that, request that she enlist Fern to be bait (in tightening up the security, jacob made it so travel will only work with someone who's been there already).
-
+Jacob will probably want Sorrel to act as bait and go through the portal again or, failing that, request that she enlist Fern to be bait (in tightening up the security, jacob made it so travel will only work with someone who's been there already). To make matters worse, Fox won't let Sorrel leave his sight.
