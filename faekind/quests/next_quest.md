@@ -33,3 +33,17 @@ On their way to Sorrel's home, make a travel roll:
 Sorrel may want to go to the place listed on the map, but would maybe want to wait for Fern? Fox wants Sorrel to make safe decisions, stay home kind of thing. Maybe Sorrel wants to sneak out and fight at the sprawl? Jacob could show back up with some new info. Maybe he wants to apologize again and explain something about a possible agent working away at his bubble prisons?
 
 Jacob will probably want Sorrel to act as bait and go through the portal again or, failing that, request that she enlist Fern to be bait (in tightening up the security, jacob made it so travel will only work with someone who's been there already). To make matters worse, Fox won't let Sorrel leave his sight.
+
+<hr/>
+
+Jacob sent Sorrel to get a book and she ended up in Whispers place before being told to use the twilight to get where she needs to go. 
+
+Sorrel rode Benny and ended up on the wing side of the river, 30 mins from fox
+
+Jacob's magic is on the fritz because Astrid is infecting his protective bubble, making him sick. Jacob needs the book to cast a healing spell, but it requires 2 ingredients he doesn't have.
+
+He needs Sorrel to find blue butterfly powder, available from the herbalist at the Sprawl, and sweet purple pepper flakes. The herbalist is out of the second and turns Sorrel to an apothecary working out of an alley in the Bend, very close to Blackwood territory. 
+
+The apothecary wants something different for payment; she wants to talk to Fox alone. (She reads him and tells him something about his past: his birth family didn't give him up willingly.) She then disappears, leaving a small bag of sweet purple pepper flakes behind.
+
+Fox quits his job as a cop, curious to figure out what is going on with Sorrel's strange world. Maple meets Fox and is awkward and uncomfortable.
